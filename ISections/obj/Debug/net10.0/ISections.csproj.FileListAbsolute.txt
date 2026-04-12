@@ -1,0 +1,11 @@
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/ISections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/ISections.AssemblyInfoInputs.cache
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/ISections.AssemblyInfo.cs
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/ISections.csproj.CoreCompileInputs.cache
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/bin/Debug/net10.0/ISections.deps.json
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/bin/Debug/net10.0/ISections.dll
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/bin/Debug/net10.0/ISections.pdb
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/ISections.dll
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/refint/ISections.dll
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/ISections.pdb
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/ISections/ISections/obj/Debug/net10.0/ref/ISections.dll

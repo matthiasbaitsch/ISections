@@ -1,0 +1,11 @@
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/bin/Debug/net10.0/SteelProfiles.deps.json
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/bin/Debug/net10.0/SteelProfiles.dll
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/bin/Debug/net10.0/SteelProfiles.pdb
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/SteelProfiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/SteelProfiles.AssemblyInfoInputs.cache
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/SteelProfiles.AssemblyInfo.cs
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/SteelProfiles.csproj.CoreCompileInputs.cache
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/SteelProfiles.dll
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/refint/SteelProfiles.dll
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/SteelProfiles.pdb
+/Users/maba/sciebo/lehrveranstaltungen/informatik-master-2.0/software/SteelProfiles/SteelProfiles/obj/Debug/net10.0/ref/SteelProfiles.dll

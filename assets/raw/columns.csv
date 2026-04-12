@@ -1,0 +1,36 @@
+name_alt
+name
+Gewicht
+G [kg/m]
+Abmessungen
+h [mm]
+b [mm]
+tw [mm]
+tf [mm]
+r=r1 [mm]
+r2 [mm]
+A [mm² x 10²]
+hi [mm]
+d [mm]
+Ø
+pmin [mm]
+pmax [mm]
+Oberfläche
+AL [m]
+AG [m²/t]
+Querschnittswerte
+Iy [mm4 x 104]
+Wel.y [mm³ x 10³]
+Wpl.y [mm³ x 10³]
+iy [mm x 10]
+Avz [mm² x 10²]
+Iz [mm4 x 104]
+Wel.z [mm³ x 10³]
+Wpl.z [mm³ x 10³]
+iz [mm x 10]
+Ss [mm]
+It [mm4 x 104]
+Iw [mm6x109]
+Klassifikation EN 1993-1-1:2006
+Reine Biegung
+Reiner Druck
