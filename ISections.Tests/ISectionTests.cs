@@ -7,7 +7,7 @@ public class ISectionTests
     [Fact]
     public void HEA200_HasCorrectProperties()
     {
-        var p = ISection.Get("HEA", 200);
+        var p = ISection.Get("HE-A", 200);
 
         Assert.Equal("HE 200 A", p.Name);
         Assert.Equal(42.3, p.G);

@@ -13,7 +13,7 @@ series <- Vectorize(function(name) {
   if (length(p) == 2) {
     return(p[1])
   } else {
-    return(paste0(p[1], p[3]))
+    return(paste0(p[1], "-", p[3]))
   }
 })
 

@@ -1,6 +1,6 @@
 ﻿using ISections;
 
-var p = ISection.Get("HEA", 200);
+var p = ISection.Get("HE-A", 200);
 
 Console.WriteLine(p.Name);
 Console.WriteLine($" A: {p.A}");

@@ -7,7 +7,7 @@ A catalog of European steel I-section profiles (HEA, HEAA, HEB, HEM, IPE) with g
 ```csharp
 using ISections;
 
-var profile = ISection.Get("HEA", 200);
+var profile = ISection.Get("HE-A", 200);
 
 Console.WriteLine(profile.Name);   // HE 200 A
 Console.WriteLine(profile.G);      // 42.3  kg/m
@@ -19,13 +19,13 @@ Console.WriteLine(profile.Iy);     // 3692  cm⁴
 
 ## Available Series
 
-| Series | Description |
-|--------|-------------|
-| IPE    | European standard I-sections |
-| HEA    | Wide flange, series A (light) |
-| HEAA   | Wide flange, series AA (extra light) |
-| HEB    | Wide flange, series B (medium) |
-| HEM    | Wide flange, series M (heavy) |
+| Series  | Description |
+|---------|-------------|
+| IPE     | European standard I-sections |
+| HE-A    | Wide flange, series A (light) |
+| HE-AA   | Wide flange, series AA (extra light) |
+| HE-B    | Wide flange, series B (medium) |
+| HE-M    | Wide flange, series M (heavy) |
 
 ## Properties
 

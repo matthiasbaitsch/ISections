@@ -8,13 +8,13 @@ ISections exposes a simple, strongly-typed API to look up cross-section properti
 
 ### Supported Series
 
-| Series | Description |
-|--------|-------------|
-| HEA    | Wide flange I-sections, series A (light) |
-| HEAA   | Wide flange I-sections, series AA (extra light) |
-| HEB    | Wide flange I-sections, series B (medium) |
-| HEM    | Wide flange I-sections, series M (heavy) |
-| IPE    | European standard I-sections |
+| Series  | Description |
+|---------|-------------|
+| HE-A    | Wide flange I-sections, series A (light) |
+| HE-AA   | Wide flange I-sections, series AA (extra light) |
+| HE-B    | Wide flange I-sections, series B (medium) |
+| HE-M    | Wide flange I-sections, series M (heavy) |
+| IPE     | European standard I-sections |
 
 ### Properties per Profile
 
@@ -44,7 +44,7 @@ ISections exposes a simple, strongly-typed API to look up cross-section properti
 ```csharp
 using ISections;
 
-var profile = ISection.Get("HEA", 200);
+var profile = ISection.Get("HE-A", 200);
 
 Console.WriteLine(profile.Name);   // HE 200 A
 Console.WriteLine(profile.A);      // cross-sectional area in cm²
