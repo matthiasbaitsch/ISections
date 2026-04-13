@@ -44,7 +44,7 @@ ISections exposes a simple, strongly-typed API to look up cross-section properti
 ```csharp
 using ISections;
 
-var profile = ISection.Get("HE-A", 200);
+ISection profile = ISection.Get("HE-A", 200);
 
 Console.WriteLine(profile.Name);   // HE 200 A
 Console.WriteLine(profile.A);      // cross-sectional area in cm²

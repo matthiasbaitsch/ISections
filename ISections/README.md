@@ -7,7 +7,7 @@ A catalog of European steel I-section profiles (HEA, HEAA, HEB, HEM, IPE) with g
 ```csharp
 using ISections;
 
-var profile = ISection.Get("HE-A", 200);
+ISection profile = ISection.Get("HE-A", 200);
 
 Console.WriteLine(profile.Name);   // HE 200 A
 Console.WriteLine(profile.G);      // 42.3  kg/m
