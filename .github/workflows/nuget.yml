@@ -20,4 +20,4 @@ jobs:
           dotnet pack ISections/ISections.csproj -c Release -p:Version=${VERSION#v} -o ./nupkg
 
       - name: Push to NuGet
-        run: dotnet nuget push ./ISections/nupkg/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json
+        run: dotnet nuget push -s ./ISections/nupkg/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json
